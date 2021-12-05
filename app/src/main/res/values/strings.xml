@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="date">8 Окт - 14 Окт\n2020</string>
+    <string name="free">Свободно</string>
+    <string name="noShift">Смена</string>
+    <string name="fullName">Иванов Иван Иванович</string>
+    <string name="range">30 мин</string>
+    <string name="shiftCancel">Смена снята</string>
+    <string name="timeRange">12:00 – 15:00</string>
+    <string name="time">15:00</string>
+
+</resources>

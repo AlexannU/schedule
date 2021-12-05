@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="currentDayLineColor">#F7B500</color>
+    <color name="noShiftBackground">#F0F0F0</color>
+    <color name="noShiftLine">#D8D8D8</color>
+    <color name="closeShiftBackground">#FBDEDE</color>
+    <color name="closeShiftLine">#E02020</color>
+    <color name="greenBackground">#266DD400</color>
+    <color name="blueBackground">#262B8AFF</color>
+    <color name="blueLine">#83CFFF</color>
+    <color name="greenLine">#218A20</color>
+    <color name="redLine">#A52829</color>
+    <color name="defaultLine">#9471DE</color>
+
+</resources>
